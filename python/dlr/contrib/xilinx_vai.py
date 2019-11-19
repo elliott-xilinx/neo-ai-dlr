@@ -24,7 +24,7 @@ following evaluation boards:
 - ZCU102: https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html
 - Zedboard: https://www.xilinx.com/products/boards-and-kits/1-8dyf-11.html
 
-More information about DPU and DNNDK can be found in the user guides:
+More information about Xilinx DPU and DNNDK can be found in the user guides:
 https://www.xilinx.com/support/documentation/ip_documentation/dpu/v3_0/pg338-dpu.pdf
 https://www.xilinx.com/support/documentation/sw_manuals/ai_inference/v1_6/ug1327-dnndk-user-guide.pdf
 """
